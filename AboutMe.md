@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andreDucharme
+- 👀 I’m interested in general coding
+- 🌱 I’m currently learning Java, C, Software engineering and More
+- 💞️ I’m looking to collaborate on school projects mostly
+- 📫 How to reach me teamasterad123@gmail.com
